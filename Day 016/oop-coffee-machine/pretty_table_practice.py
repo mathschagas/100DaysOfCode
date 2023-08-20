@@ -1,3 +1,5 @@
+# This code is not related to the work of the day
+
 # from turtle import Turtle, Screen
 
 # timmy = Turtle()
